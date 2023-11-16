@@ -1,4 +1,4 @@
-package com.example.cnote
+package com.example.cnote.core.presentation
 
 import android.os.Bundle
 import androidx.activity.ComponentActivity
